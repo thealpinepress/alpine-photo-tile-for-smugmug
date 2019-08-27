@@ -1,1 +1,1 @@
-# alpine-phototile-or-smugmug
+# alpine-phototile-for-smugmug
