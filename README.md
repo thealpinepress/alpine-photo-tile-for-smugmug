@@ -1,6 +1,5 @@
 # Alpine PhotoTile for SmugMug
 * Contributors: theAlpinePress
-* Donate link: thealpinepress.com
 * Tags: photos, photostream, pictures, images, widget, sidebar, gallery, lightbox, fancybox, prettybox, colorbox
 * Requires at least: 2.8
 * Tested up to: 3.5
